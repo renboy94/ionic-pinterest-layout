@@ -1,2 +1,8 @@
 # ionic-pinterest-layout
-Simple Pinterest layout made with Ionic 4
+
+[Demo Here](https://stackblitz.com/edit/ionic-pinterest-layout)
+
+```
+# install dependencies
+npm install
+```
